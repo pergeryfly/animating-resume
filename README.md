@@ -2,7 +2,7 @@
 
 > This is my resume
 
-[预览](http://www.pengfeipeng.cn/animating-resume/public/index.html/)
+[预览](http://www.pengfeipeng.cn/animating-resume/public/index.html)
 
 ## 使用方法
 
