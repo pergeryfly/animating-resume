@@ -2,7 +2,7 @@
 
 > This is my resume
 
-[预览](https://jirengu-inc.github.io/animating-resume/public/)
+[预览](http://www.pengfeipeng.cn/animating-resume/public/index.html/)
 
 ## 使用方法
 
